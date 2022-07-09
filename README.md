@@ -1,6 +1,9 @@
 # Telegram ID Bot
+<p align="center">
+  <img src="https://telegra.ph/file/cea4f367bcd8f1d728faa.jpg " alt="Telegram ID Bot">
+</p>
 
-https://telegra.ph/file/cea4f367bcd8f1d728faa.jpg 
+
 
 🤖 A Bot To Find Telegram User ID Easily
 
