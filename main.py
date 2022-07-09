@@ -1,4 +1,4 @@
-# Creator : https://GitHub.com/BXBotz >< https://telegram.me/BX_Botz [@BXBotz]
+# Creator : https://t.me/DeltaBotsOfficial >< https://t.me/DeltaBotsOfficial [@DeltaBotsOfficial]
 
 import os
 from pyrogram import Client, filters
@@ -6,7 +6,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from config import Config
  
 Telegram = Client(
-    "Telegram ID Bot",
+    "TG_user_ID_Bot",
     bot_token = os.environ["BOT_TOKEN"],
     api_id = int(os.environ["API_ID"]),
     api_hash = os.environ["API_HASH"]
@@ -25,7 +25,7 @@ async def start(bot, update):
 
 # COMMANDS
 
-START_TEXT = """🆔 Your Telegram ID : `{}`"""
+START_TEXT = """🆔🆔 Your Telegram ID 🆔🆔 : `{}`"""
 
 # BUTTONS
 
