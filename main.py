@@ -25,7 +25,7 @@ async def start(bot, update):
 
 # COMMANDS
 
-START_TEXT = """🆔🆔 Your Telegram ID 🆔🆔 : `{}`"""
+START_TEXT = """🆔🆔 Your Telegram ID 🆔🆔 :\n👇👇👇👇👇👇\n\n `{}`\n\n\nIF U WANT TO GET YOUR TELEGRAM ID THEN MUST JOIN THIS CHANNEL\n\n@DeltaBotsOfficial"""
 
 # BUTTONS
 
