@@ -32,7 +32,7 @@ START_TEXT = """🆔🆔 Your Telegram ID 🆔🆔 : `{}`"""
 START_BUTTON = InlineKeyboardMarkup(
              [[
              InlineKeyboardButton('♻️ FIRST JOIN Updates Channel ♻️', url=f"https://telegram.me/{Config.UPDATE_CHANNEL}")
-             ]
+             ],
              [
                         InlineKeyboardButton('🎬𝗠𝗢𝗩𝗜𝗘𝗦🎬', url='https://t.me/joinchat/vii7DDEvKCZkNDVl'),
                         InlineKeyboardButton('💢𝗧𝗩 𝗦𝗘𝗥𝗜𝗘𝗦💢', url='https://t.me/joinchat/Qea8OllY2QUzMDY1')
