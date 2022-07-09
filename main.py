@@ -25,13 +25,13 @@ async def start(bot, update):
 
 # COMMANDS
 
-START_TEXT = """🆔🆔 Your Telegram ID 🆔🆔 :\n👇👇👇👇👇👇\n\n `{}`\n\n\nIF U WANT TO GET YOUR TELEGRAM ID THEN MUST JOIN THIS CHANNEL\n\n@DeltaBotsOfficial"""
+START_TEXT = """🆔🆔 Your Telegram ID 🆔🆔 :\n👇👇👇👇👇👇\n\n `{}`\n\n\nIF U WANT TO GET YOUR TELEGRAM ID THEN MUST JOIN THIS CHANNEL\n\n@DeltaBotsOfficial\n"""
 
 # BUTTONS
 
 START_BUTTON = InlineKeyboardMarkup(
              [[
-             InlineKeyboardButton('♻️ FIRST JOIN Updates Channel ♻️', url=f"https://telegram.me/{Config.UPDATE_CHANNEL}")
+             InlineKeyboardButton('♻️🚨 FIRST JOIN Updates Channel 🚨♻️', url=f"https://telegram.me/{Config.UPDATE_CHANNEL}")
              ],
              [
                         InlineKeyboardButton('🎬𝗠𝗢𝗩𝗜𝗘𝗦🎬', url='https://t.me/joinchat/vii7DDEvKCZkNDVl'),
